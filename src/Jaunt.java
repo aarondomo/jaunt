@@ -78,7 +78,7 @@ public class Jaunt {
             System.out.println("*************************** Llenar formulario **********************************");
 
             Scanner in = new Scanner(System.in);
-            String rfc = "DOOA860406K73";
+            String rfc = "";
             String pass = "";
             String captcha = in.next();
 
